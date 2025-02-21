@@ -1,0 +1,52 @@
+@media only screen and (min-width:200px) and (max-width:991px){
+    .btn_outer{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        left: 0;
+        margin-top: 10px;
+        z-index: 1;
+        justify-content: center !important;
+    }
+    .whatsappbtn,.callbtn{
+        padding: 7px 15px;
+        font-size: 14px;
+    }
+
+    
+.heading1 {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    
+  }
+  
+  
+  .heading2 {
+    font-size: 15px;
+    text-align: center;
+  }
+  
+  .covertext ul > li {
+    list-style: none;
+    font-size: 15px;
+  }
+  .covertext ul > li > i {
+    color: rgb(27, 156, 252);
+  }
+  
+.coverbtn{
+    flex-direction: column;
+  }
+  
+.coverbtn button {
+    width: 100%;
+  }
+}
+
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}

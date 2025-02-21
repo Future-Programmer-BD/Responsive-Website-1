@@ -1,0 +1,122 @@
+.whatsappbtn {
+  font-size: 16px;
+  padding-left: 20px;
+  color: green;
+  font-weight: 500;
+  padding-right: 20px;
+  border: 1.5px solid green;
+}
+
+.whatsappbtn:hover {
+  background-color: greenyellow;
+  color: black;
+  cursor: pointer;
+}
+
+.callbtn {
+  font-size: 16px;
+  color: white;
+  background: linear-gradient(to right, rgb(27, 156, 252), rgb(37, 204, 247));
+  font-weight: 500;
+}
+
+.callbtn:hover {
+  background: linear-gradient(to right, rgb(254, 164, 127), rgb(249, 127, 81));
+  font-weight: 500;
+}
+.heading1 {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.heading1 span {
+  color: rgb(27, 156, 252);
+}
+
+.heading2 {
+  font-size: 20px;
+  text-align: left;
+}
+
+.covertext ul > li {
+  list-style: none;
+  font-size: 20px;
+}
+.covertext ul > li > i {
+  color: rgb(27, 156, 252);
+}
+
+.coverbtn button {
+  width: 50%;
+}
+
+.coverbtn button:first-child {
+  background: linear-gradient(to right, rgb(38, 222, 129), rgb(32, 191, 107));
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+}
+.coverbtn button:first-child:hover {
+  background: linear-gradient(to right, rgb(43, 203, 186), rgb(15, 185, 177));
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.coverbtn button:last-child {
+  background-color: white;
+  border: 2px solid gainsboro;
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.coverbtn button:last-child:hover {
+  background: linear-gradient(to right, rgb(253, 150, 68), rgb(250, 130, 49));
+  color: black;
+  border: 2px solid gainsboro;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.Log1 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.Log2 {
+  font-size: 15px;
+  font-weight: 500;
+  color: gray;
+}
+
+.Submit {
+  background: linear-gradient(to right, rgb(38, 222, 129), rgb(32, 191, 107));
+  color: white;
+  font-size: 16px;
+  width: 100%;
+  font-weight: 500;
+}
+.Submit:hover {
+    background: linear-gradient(to right, rgb(43, 203, 186), rgb(15, 185, 177));
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+
+  .bottomP h2
+  {
+    color: rgb(27, 156, 252);
+    font-weight: 700;
+  }
+
+  .bottomP p
+  {
+color: gray;    font-weight: 700;
+  }
+
+  .bottomP{
+    background-color: rgb(243, 243, 243);
+  }
